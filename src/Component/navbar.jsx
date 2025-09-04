@@ -18,7 +18,7 @@ function Navbar() {
       {/* Left side - Portfolio */}
       <motion.div
         className="text-2xl font-bold tracking-wide"
-        whileHover={{ scale: 1.05, color: "#facc15" }}
+        whileHover={{ scale: 1.05, color: "#06b6d4" }}
         transition={{ type: "spring", stiffness: 300 }}
       >
         Hardik Agravat
