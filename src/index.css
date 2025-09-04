@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(to bottom, #0f2027, #203a43, #2c5364); /* Example gradient */
+  color: white; /* Optional, for text contrast */
+  font-family: Arial, sans-serif;
+}
