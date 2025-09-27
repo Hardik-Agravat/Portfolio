@@ -45,17 +45,9 @@ const Home = () => {
 
           {/* Social Icons */}
           <div className="flex justify-center md:justify-start gap-6 mt-6 text-2xl">
-            <a
-              href="https://facebook.com"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-gray-400 hover:text-cyan-400 hover:scale-110 transition transform duration-300"
-            >
-              <FaFacebook />
-            </a>
             
             <a
-              href="https://github.com"
+              href="https://github.com/Hardik-Agravat"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-cyan-400 hover:scale-110 transition transform duration-300"
@@ -63,7 +55,7 @@ const Home = () => {
               <FaGithub />
             </a>
             <a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/hardik-agravat-522671327/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-cyan-400 hover:scale-110 transition transform duration-300"
